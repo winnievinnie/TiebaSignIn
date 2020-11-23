@@ -50,7 +50,7 @@ BDUSS | xxxxxxxxxxx
 将`run.txt`中的`flag`由`0`改为`1`
 
 ```patch
-- flag: 0
+- flag: 1
 + flag: 1
 ```
 
